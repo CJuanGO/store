@@ -1,6 +1,5 @@
 package com.ecommerce.store.repositories;
 
-
 import com.ecommerce.store.entities.Address;
 import org.springframework.data.repository.CrudRepository;
 
